@@ -1,0 +1,17 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+coef_df|stem|26892e25f19e5d01|5a5647dabe4272b8|8ae1b43c0a49ad04|958745173||t19950.3413009517s|0acef907e1a6ced9|588|rds|local|vector|||0.01||
+coef_fun|function|dcf57d93b7111e6d|||||||||||||||
+coef_plot|stem|f06d0aaf209ae577|fc1ed0a8b717cce9|11440e9f180dbbdb|-1557687792||t19950.3413012998s|ea7811d038a6e830|94038|rds|local|vector|||0.004||
+coef_plot_files|stem|764cfdfd2d54dd39|8ec8bcce5108e611|c7b4b5f33d9233dd|1440494421||t19950.3449302256s|a057b906461a46f0|75|rds|local|vector|||0.4||
+fit|stem|c9457cd9d0092fe1|39a334e1b9103e3e|c4d47b18ef1ea0e9|150100524||t19950.3160724537s|292c4f1d3c8eacd9|17707|rds|local|vector|||0.002||
+fit_lm|function|f973de7328affd6a|||||||||||||||
+fit_lm_sp|function|8501a763c3d2eda5|||||||||||||||
+fit_sp|stem|c9457cd9d0092fe1|39a334e1b9103e3e|c4d47b18ef1ea0e9|-2144007522||t19949.3916361754s|292c4f1d3c8eacd9|17707|rds|local|vector|||0.002||
+my_ggsave|function|c7462cae8a7a7cde|||||||||||||||
+penguins|stem|8e4c59d5de54dc0b|4edcd5dc75d43a79|a460a5f0213bbec1|-490580794||t19950.3810566159s|6da5d6b0bd3f239c|3177|rds|local|vector|||0.235||
+penguins_csv|stem|5c76ed34b7d63bcb|e4a94dd2290c9519|2c530c1562a7fbd1|2106252244|data-raw/penguins.csv|t19949.3723896595s|43e6108b2a2e127b|15241|file|local|vector|||0.361||
+penguins.csv|stem|5c76ed34b7d63bcb|e4a94dd2290c9519|2c530c1562a7fbd1|-252751823|data-raw/penguins.csv|t19949.3723896595s|43e6108b2a2e127b|15241|file|local|vector|||0.283||
+scatter|function|24c9f10c246c9ef8|||||||||||||||
+scatter_fun|function|24c9f10c246c9ef8|||||||||||||||
+scatter_plot|stem|46d5764cec6760b0|6a0e8b0a57bd526b|a4daf6239bd23bd7|533553181||t19950.3413007805s|4cbca88b3ac67345|130103|rds|local|vector|||0.01||
+scatter_plot_files|stem|e40af75a2f636987|0e1b0df0a0f840da|36efed9d91a64f75|1441536883||t19950.3446422514s|d22c29dc585b97b0|78|rds|local|vector|||0.94|Removed 2 rows containing nonfinite outside the scale range stat_smooth.. Removed 2 rows containing missing values or values outside the scale rangegeom_point.. Removed 2 rows containing nonfinite outside the scale range stat_smooth.. Removed 2 rows containing missing values or values outside the scale rangegeom_point.|
